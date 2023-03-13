@@ -56,7 +56,7 @@ module.exports = [
         path: 'message/send',
         method: 'POST'
     },{
-        path: 'message/corpconversation/asyncsend_v2',
+        path: 'topapi/message/corpconversation/asyncsend_v2',
         method: 'POST'
     },{
         path: 'media/upload',

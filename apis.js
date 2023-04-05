@@ -79,5 +79,8 @@ module.exports = [
     },{
         path: 'chat/send',
         method: 'POST'
+    },{
+        path: 'topapi/v2/department/get',
+        method: 'POST'
     }
 ];
